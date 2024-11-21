@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="489" viewBox="0 0 490 489" fill="none">
+<g clip-path="url(#clip0_484_6204)">
+<g opacity="0.2">
+<line x1="33.3465" y1="-62.1086" x2="33.3465" y2="550.865" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line x1="94.0282" y1="-62.1086" x2="94.0281" y2="550.865" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line x1="154.72" y1="-62.1086" x2="154.72" y2="550.865" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line x1="215.413" y1="-62.1086" x2="215.413" y2="550.865" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line x1="276.1" y1="-62.1086" x2="276.1" y2="550.865" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line x1="336.794" y1="-62.1086" x2="336.794" y2="550.865" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line x1="397.485" y1="-62.1086" x2="397.485" y2="550.865" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line x1="458.167" y1="-62.1086" x2="458.167" y2="550.865" stroke="#FFFDF7" stroke-width="1.51726"/>
+</g>
+<line opacity="0.2" x1="-61.4883" y1="456.036" x2="551.485" y2="456.036" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line opacity="0.2" x1="-61.4883" y1="395.349" x2="551.485" y2="395.349" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line opacity="0.2" x1="-61.4883" y1="334.658" x2="551.485" y2="334.658" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line opacity="0.2" x1="-61.4883" y1="273.964" x2="551.485" y2="273.964" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line opacity="0.2" x1="-61.4883" y1="213.278" x2="551.485" y2="213.278" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line opacity="0.2" x1="-61.4883" y1="152.584" x2="551.485" y2="152.584" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line opacity="0.2" x1="-61.4883" y1="91.8922" x2="551.485" y2="91.8923" stroke="#FFFDF7" stroke-width="1.51726"/>
+<line opacity="0.2" x1="-61.4883" y1="31.2057" x2="551.485" y2="31.2058" stroke="#FFFDF7" stroke-width="1.51726"/>
+<circle cx="244.998" cy="244.379" r="247.4" fill="url(#paint0_radial_484_6204)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_484_6204" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(244.998 244.379) rotate(90) scale(247.4)">
+<stop stop-color="#13110F" stop-opacity="0"/>
+<stop offset="1" stop-color="#1C1917"/>
+</radialGradient>
+<clipPath id="clip0_484_6204">
+<rect x="0.894531" y="0.274414" width="488.209" height="488.209" rx="244.104" fill="white"/>
+</clipPath>
+</defs>
+</svg>
